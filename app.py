@@ -1,5 +1,6 @@
 import random
 import streamlit as st
+import treys
 from treys import Card, Evaluator, Deck
 
 # ----------------------------
