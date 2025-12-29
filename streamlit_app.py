@@ -65,6 +65,7 @@ Note:
 - This is a simplified no-limit engine (single pot; no side pots). All-ins are supported but side pots are not split perfectly.
 """
 
+!pip install rich, treys
 from __future__ import annotations
 
 import random
